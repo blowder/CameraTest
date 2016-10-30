@@ -1,0 +1,595 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Butto",
+				"button1"
+			],
+			[
+				"ca",
+				"camera	(CameraSurfaceView.java)"
+			],
+			[
+				"and",
+				"android"
+			],
+			[
+				"Came",
+				"CameraSurfaceView	(CameraSurfaceView.java)"
+			],
+			[
+				"Ca",
+				"CameraSurfaceView	(CameraSurfaceView.java)"
+			],
+			[
+				"pa",
+				"package	(URLHistory.java)"
+			],
+			[
+				"hi",
+				"highRes"
+			],
+			[
+				"ex",
+				"exists	(ThumbnailGenerationService.kt)"
+			],
+			[
+				"size",
+				"iconSizeInMm"
+			],
+			[
+				"se",
+				"setupIcon"
+			],
+			[
+				"icon",
+				"iconsLocator"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"ico",
+				"icon"
+			],
+			[
+				"es",
+				"exists"
+			],
+			[
+				"getH",
+				"getHighRes"
+			],
+			[
+				"low",
+				"lowRes"
+			],
+			[
+				"loca",
+				"locate"
+			],
+			[
+				"lowre",
+				"lowResLocator"
+			],
+			[
+				"chec",
+				"checkBox"
+			],
+			[
+				"Date",
+				"DATE	Java Class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main/java/com/android/camera/test/CameraSurfaceView.java",
+			"settings":
+			{
+				"buffer_size": 1402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/res/layout/main.xml",
+			"settings":
+			{
+				"buffer_size": 916,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/java/com/android/camera/test/MainActivity.java",
+			"settings":
+			{
+				"buffer_size": 270,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/main/AndroidManifest.xml",
+			"settings":
+			{
+				"buffer_size": 799,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sesshoumaru/IdeaProjects/cameraphone",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java/com",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java/com/android",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java/com/android/camera",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java/com/android/camera/test",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/res",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/res/drawable",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/res/layout"
+	],
+	"file_history":
+	[
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/res/values/styles.xml",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/res/values/theme.xml",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/res/values/strings.xml",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/target/info.log",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/res/layout/main2.xml",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java/com/android/camera/test/MainActivity.java",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/AndroidManifest.xml",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java/com/android/camera/test/CameraSurfaceView.java",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/res/layout/main.xml",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java/com/commonsware/android/vidtry/Player.java",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/default.properties",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/pom.xml",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java/com/commonsware/android/vidtry/URLHistory.java",
+		"/home/sesshoumaru/IdeaProjects/vidtry/src/com/commonsware/android/vidtry/URLHistory.java",
+		"/home/sesshoumaru/IdeaProjects/vidtry/build.xml",
+		"/home/sesshoumaru/IdeaProjects/vidtry/src/com/commonsware/android/vidtry/Player.java",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/src/main/java/com/android/camera/test/HelloAndroidActivity.java",
+		"/home/sesshoumaru/IdeaProjects/cameraphone/cameraphone-samples/pom.xml",
+		"/home/sesshoumaru/IdeaProjects/vidtry/res/layout/main.xml",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/activities/HistoryActivity.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/activities/CheckViewHolder.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/build.gradle",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/activities/OnIconClickListener.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/factories/AppComponent.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/view/adapters/CheckListAdapter.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/image/ThumbnailGenerationService.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/jobs/OnTaskCompletedListener.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/view/adapters/CheckTabPagerAdapter.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/res/layout/tab_all.xml",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/res/layout/tab_grouped.xml",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/utils/AndroidUtils.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/jobs/ImageThumbnailCreateTask.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/canvas/CanvasView.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/opencv/ImageProcessingService.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/presenters/BasePresenter.kt",
+		"/home/sesshoumaru/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/activities/TestActivity.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/activities/TabAllFragment.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/activities/TabGroupedFragment.kt",
+		"/home/sesshoumaru/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/activities/SampleFragmentPagerAdapter.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/res/layout/test_layout.xml",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/res/layout/history_page_layuot.xml",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/services/mappers/ImageDocMapper.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/res/layout/main_tabs_screen.xml",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/services/UploadService.java",
+		"/media/sesshoumaru/24F6-A8C3/menu.lst",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/data/dao/ImageDocDao.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/data/model/ImageDoc.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/model/ImageDocService.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/data/model/Entity.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/data/dao/Dao.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/model/ImageDoc.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/data/dao/mappers/ImageDocMappers.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/requests/UploadTokenRequest.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/res/layout/card_layout.xml",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/activities/HistoryViewHolder.kt",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/src/main/java/com/shl/checkpin/android/gcm/MyGcmListenerService.java",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/build.gradle",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/hs_err_pid2331.log",
+		"/home/sesshoumaru/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/sesshoumaru/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/app/libs/OpenCV/pom.xml",
+		"/home/sesshoumaru/IdeaProjects/CheckPin-Mobile/Android/gradle.properties",
+		"/home/sesshoumaru/.profile",
+		"/home/sesshoumaru/.Xauthority"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"string",
+			"Bytes received",
+			"icicle",
+			"bundle",
+			"icicle",
+			"onIconClickListener",
+			"file",
+			"onIconClickListener",
+			"OnIconClickListener",
+			"CheckPinApp",
+			"onIconClickListener",
+			"icon",
+			"lowRes",
+			"context",
+			"getIcon",
+			"getLowRes",
+			"thumbnailService",
+			"generateIconAsync",
+			"getIconAsync",
+			"height",
+			"width",
+			"iconSizeInMm",
+			"onTaskCompleted",
+			"thumbnailService",
+			"CheckViewHolder",
+			"holder",
+			"lowRes",
+			"lowResLocator",
+			" =",
+			"lowRes",
+			"originImage",
+			"highRes",
+			"lowRes",
+			"canvas",
+			"ImageThumbnailCreateTask",
+			"scaleIfExist",
+			"highRes",
+			"icon",
+			"target",
+			"icon",
+			"lowRes",
+			"source",
+			"lowRes",
+			"highRes",
+			"lowRes",
+			"y",
+			"dimension",
+			"angle",
+			"ImageThumbnailCreateTask",
+			"iconSizeInMm",
+			"ImageThumbnailCreateTask",
+			"highRes",
+			"null",
+			"FileLocator",
+			"Constants",
+			"highResLocator",
+			"locator",
+			"LOWRES",
+			"HIGHRES",
+			"type",
+			"iconsLocator",
+			"p0",
+			"p1",
+			"isChecked",
+			"p1",
+			"isChecked",
+			"CompoundButton",
+			"onCheckedChanged",
+			"varCheckBox",
+			"CheckBox",
+			"view",
+			"p0",
+			"parent",
+			"Toast",
+			"View",
+			"public",
+			"override",
+			"data",
+			"spinner",
+			"delete",
+			"\"], ",
+			"ctrl+d",
+			"inflater",
+			"NAME",
+			"url",
+			"amount",
+			"number",
+			"category",
+			"ImageDocMapper",
+			"ImageDoc.",
+			"ImageDoc.TABLE_NAME",
+			"ImageDocDbService",
+			"class",
+			"name",
+			"ImageDoc",
+			"name",
+			"model",
+			"retailer",
+			"\"\n",
+			"position",
+			"HistoryViewHolder",
+			"ctrl",
+			"reindent",
+			"autointe",
+			"find_under_expand",
+			"ctrl+d",
+			"d",
+			"shift",
+			"layout_width",
+			"  android:layout_toEndOf=\"@+id/imageView2\">\n                <TextView\n                    android:layout_width=\"wrap_content\"\n                    android:layout_height=\"wrap_content\"\n                    android:id=\"@+id/dateView\"\n                    android:padding=\"1mm\"\n                    />\n                <TextView\n                    android:layout",
+			"android",
+			"layout_width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"scaleSourceIfExist",
+			"",
+			"TABLE_NAME",
+			"ImageDocDao",
+			"Entity"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main/java/com/android/camera/test/CameraSurfaceView.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/main/res/layout/main.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 916,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								545,
+								545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/main/java/com/android/camera/test/MainActivity.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/main/AndroidManifest.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								466,
+								466
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 330.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Maven.sublime-build",
+	"project": "cameraphone.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
