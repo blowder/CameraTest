@@ -32,8 +32,8 @@
 				<configuration> 
 					<sdk> 
 						<platform>15</platform>
+						<path>/home/sesshoumaru/.bin/android-sdk-linux/</path>
 					</sdk>
-					<deleteConflictingFiles>true</deleteConflictingFiles>
 					<undeployBeforeDeploy>true</undeployBeforeDeploy>
 				</configuration>
 				<extensions>true</extensions>
